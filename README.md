@@ -4,6 +4,10 @@
 
 - [Live Demo](https://widgetdash.netlify.app/)
   <br/>
+  To run locally :
+  Step 1: Open teminal in VS Code.
+  Step 2: Type npm i
+  Step 3: After installing node modules start dev server => npm run dev 
 
 <p align="center">
 <img src="logo.png" alt="image" width="400" height="300">
