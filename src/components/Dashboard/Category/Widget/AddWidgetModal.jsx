@@ -19,8 +19,8 @@ const AddWidgetModal = ({ categoryId, onClose }) => {
  };
 
  return (
-  <div className="fixed inset-0 flex items-center justify-center bg-black backdrop-blur-sm bg-opacity-80 z-10">
-   <form onSubmit={handleAddWidget} className="bg-slate-200 p-4 rounded-xl shadow w-1/3">
+  <div className="fixed inset-0 flex flex-col  items-center justify-center bg-black backdrop-blur-sm bg-opacity-80 z-10">
+   <form onSubmit={handleAddWidget} className="bg-slate-200 p-4 rounded-xl shadow w-1/2 sm:w-1/3">
     <h2 className="text-xl font-semibold mb-4">Add New Widget</h2>
     <div className="mb-4">
      <label className="block mb-1">Widget Name</label>
