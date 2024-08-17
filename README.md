@@ -2,7 +2,7 @@
 
 ## Dashboard for adding widgets
 
-- [Live Demo](https://schoolmanager.vercel.app/)
+- [Live Demo](https://widgetdash.netlify.app/)
   <br/>
 
 <p align="center">
@@ -15,18 +15,18 @@
     Dashboard
     <br/>
     <br/>
-    <a href="https://github.com/Monk-Codes/schoolmanager"><strong>Built using React JS framework and styled with Tailwind CSS.</strong></a>
+    <a href="https://github.com/Monk-Codes/widgetdash"><strong>Built using React JS framework and styled with Tailwind CSS.</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/Monk-Codes/schoolmanager">View Demo</a>
+    <a href="https://github.com/Monk-Codes/widgetdash">View Demo</a>
     .
-    <a href="https://github.com/Monk-Codes/schoolmanager/issues">Report Bug</a>
+    <a href="https://github.com/Monk-Codes/widgetdash/issues">Report Bug</a>
     .
-    <a href="https://github.com/Monk-Codes/schoolmanager/issues">Request Feature</a>
+    <a href="https://github.com/Monk-Codes/widgetdash/issues">Request Feature</a>
   </p>
 </p>
 
-![Forks](https://img.shields.io/github/forks/Monk-Codes/schoolmanager?style=social) ![Stargazers](https://img.shields.io/github/stars/Monk-Codes/schoolmanager?style=social)
+![Forks](https://img.shields.io/github/forks/Monk-Codes/widgetdash?style=social) ![Stargazers](https://img.shields.io/github/stars/Monk-Codes/widgetdash?style=social)
 
 ## Table Of Contents
 
@@ -38,6 +38,9 @@
 - [Acknowledgements](#acknowledgements)
 
 ## About The Project
+![image](https://github.com/user-attachments/assets/46993667-31ea-4832-b2b0-3e95f89b63d3)
+![image](https://github.com/user-attachments/assets/a0a3d764-9252-48e0-bf34-1dad4d2708e3)
+
 
 Here's why:
 
