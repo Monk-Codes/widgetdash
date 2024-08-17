@@ -11,7 +11,7 @@ const Widget = ({ categoryId, widget }) => {
  };
 
  return (
-  <div className="relative p-4 bg-white border border-gray-200 rounded shadow">
+  <div className=" relative p-6 bg-slate-200 border border-orange-300 rounded-xl items-center text-center shadow-lg">
    <button onClick={handleRemove} className="absolute top-2 right-2 text-red-500">
     <AiOutlineClose />
    </button>

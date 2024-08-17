@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import { createContext, useState } from "react";
-import categoriesData from "./sample.json"; // Assuming JSON is in the same directory
+import categoriesData from "./sample.json";
 
 export const DashboardContext = createContext();
 
